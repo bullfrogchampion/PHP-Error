@@ -1,5 +1,5 @@
 {
-	"name": "joseph-lenton/php-error",
+	"name": "bullfrogchampion/php-error",
 	"description": "Better error reporting for PHP, and prettier too!",
 	"version": "1.0.0",
 	"homepage": "https://github.com/JosephLenton/PHP-Error",
@@ -23,7 +23,11 @@
 			"name": "Joseph Lenton",
 			"homepage": "http://www.playmycode.com",
 			"role": "Developer"
-		}
+		}, {
+            "name": "Jeremy Champion",
+            "email": "bullfrogchampion@gmail.com",
+            "role": "Developer"
+        }
 	],
 	"autoload": {
 		"files": ["src/php_error.php"]
