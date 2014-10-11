@@ -7,6 +7,9 @@
 	"require": {
 		"php": ">=5.3.0"
 	},
+    "replace": {
+        "joseph-lenton/php-error": "*"
+    },
 	"repositories": [
 		{
 			"type": "git",
